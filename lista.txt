@@ -1,4 +1,19 @@
 1. Gregorio Mena
+<<<<<<< HEAD
+=======
+2. Álvaro Rodríguez Santana
+2. Melania Peña
+>>>>>>> ce37a40868aae017c61fcfc9daa69897eaa63707
 2. Monika Neuber
 3. David Castelo.
 3. Juanje Santana
+<<<<<<< HEAD
+=======
+-
+4. Carla García
+
+*
+
+4. Inés Ojeda
+
+>>>>>>> ce37a40868aae017c61fcfc9daa69897eaa63707
